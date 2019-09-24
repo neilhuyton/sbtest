@@ -1,12 +1,6 @@
 import React from "react";
 import styles from "./Header.module.css";
 
-// export type ListProps = {
-//   cssClass?: string;
-//   title: string;
-//   items: ListItemProps[];
-// };
-
 export const Header = () => (
   <header className={styles.header}>
     <nav className={styles.menu}>

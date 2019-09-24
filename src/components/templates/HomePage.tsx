@@ -13,6 +13,10 @@ export const HomePage = () => (
           <h2>First Article</h2>
           <p>Some text</p>
         </article>
+        <article>
+          <h2>First and a half Article</h2>
+          <p>Some text</p>
+        </article>
       </section>
       <section>
         <article>
