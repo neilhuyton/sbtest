@@ -2,7 +2,7 @@ import React from "react";
 import { Footer } from "../molecules/footer";
 import { Header } from "../molecules/header";
 
-import styles from "../../styles/layout.module.css";
+import styles from "../styles/layout.module.css";
 
 export const HomePage = () => (
   <body>
