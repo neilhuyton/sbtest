@@ -2,12 +2,10 @@ import React from "react";
 import { Footer } from "../molecules/footer";
 import { Header } from "../molecules/header";
 
-import styles from "../styles/layout.module.css";
-
 export const HomePage = () => (
   <body>
     <Header />
-    <main className={styles.main}>
+    <main>
       <section>
         <article>
           <h2>First Article</h2>
